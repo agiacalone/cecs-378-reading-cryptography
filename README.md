@@ -32,7 +32,7 @@ Answer the following questions from the Chapter 2, 20, and 21 reading from your 
     4.  `p=11`; `q=13`, `e=11`, `M=7`
     5.  `p=17`; `q=31`, `e=7`, `M=2`
 
-9.  Suppose we have a set of blocks encoded with the RSA algorithm and we do not have the private key. Assume `n=pq`, `e` is the public key. Suppose also someone tells us they know one of the plaintext blocks has a common factor with `n`. Does this help us in any way?
+9.  Suppose we have a set of blocks encoded with the RSA algorithm and we do not have the private key. Assume $n=pq$, $e$ is the public key. Suppose also someone tells us they know one of the plaintext blocks has a common factor with `n`. Does this help us in any way?
 
 ### Deliverables
 Commit the answers to the questions in a readable file to your git repository by the due date and time indicated with your repository. Approved file submission formats are: .txt, .md, .pdf. .html (renderable) or anything that is web-readable on Github. Other formats will only be accepted with explicit approval.
