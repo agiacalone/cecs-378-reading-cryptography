@@ -34,6 +34,7 @@ Answer the following questions from the Chapter 2, 20, and 21 reading from your 
 9.  Suppose we have a set of blocks encoded with the RSA algorithm and we do not have the private key. Assume `n=pq`, `e` is the public key. Suppose also someone tells us they know one of the plaintext blocks has a common factor with `n`. Does this help us in any way?
 
 ## Deliverables
+
 Commit the answers to the questions in a readable file to your git repository by the due date and time indicated with your repository on GitHub Classroom. The only approved file submission format is Markdown. Other formats will only be accepted with explicit approval.
 
 ### Please note:
