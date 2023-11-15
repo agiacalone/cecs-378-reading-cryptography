@@ -5,7 +5,7 @@ Answer the following questions from the Chapter 2, 20, and 21 reading from your 
 
 1. How many keys are required for two people to communicate via a symmetric cipher?
 
-2. What is a message authentication code?
+2. What is a message authentication code (MAC)?
 
 3. What are the principal ingredients of a public-key cryptosystem?
 
