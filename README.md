@@ -1,5 +1,4 @@
 # CECS 378 Reading Assignment: Cryptograpgy
-## 20 points
 
 ### Assignment Description
 Answer the following questions from the Chapter 2, 20, and 21 reading from your textbook. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
